@@ -1,8 +1,7 @@
 import React from "react";
 import Navbar from "../components/Navbar";
 
-// markup
-const IndexPage = () => {
+const About = () => {
   return (
     <div>
       <Navbar />
@@ -10,4 +9,4 @@ const IndexPage = () => {
   );
 };
 
-export default IndexPage;
+export default About;
